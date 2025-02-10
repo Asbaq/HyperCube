@@ -9,6 +9,10 @@ Here's the documentation in the format you've requested:
 ## 📌 Introduction
 **HyperCube** is a simple 2D game where players control a character to move across platforms, avoid obstacles, and survive as long as possible. The game features smooth background scrolling, platform spawning, player movement, sound effects, and a scoring system. The game ends if the player falls off the platform or collides with spikes.
 
+🔗 Video Trailer
+
+https://youtube.com/shorts/LMYoacGJJbk?si=Qw5jAfU9ZufvdiWv
+
 ## 🔥 Features
 - 🎯 **Level Progression**: Player progresses by surviving longer and avoiding obstacles.
 - 🚪 **Scene Management**: Smooth transitions between scenes such as "GameOver" and "MainMenu."
