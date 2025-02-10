@@ -1,7 +1,3 @@
-Here's the documentation in the format you've requested:
-
----
-
 # 🎮 HyperCube
 
 ![Prototype-Game](https://user-images.githubusercontent.com/62818241/201542421-96d1c820-da7d-44c8-a804-8d7ef72e37a7.png)
